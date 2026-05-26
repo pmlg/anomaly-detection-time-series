@@ -37,4 +37,4 @@ This repository contains all materials for the PMLG talk on using **Maximum Entr
 - Burg (1967). Maximum Entropy Spectral Analysis
 - Torrence & Compo (1998). A Practical Guide to Wavelet Analysis
 - [NASA IMS Bearing Dataset](https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/)
-- [mill-crack-localprocessing](https://github.com/deep-science-ai/mill-crack-localprocessing) — Related PdM work for steel mill crack detection
+
