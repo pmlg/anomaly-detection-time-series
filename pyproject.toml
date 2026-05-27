@@ -12,6 +12,7 @@ dependencies = [
     "memspectrum>=1.3.0",
     "pandas>=2.3.3",
     "pycwt>=0.5.0b0",
+    "pywavelets>=1.8.0",
     "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
 ]
